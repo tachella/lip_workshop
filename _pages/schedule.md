@@ -18,7 +18,7 @@ nav_order: 2
 
   <!-- Monday, 14 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="5"><b>Monday</b><br>14 September</td>
+    <td rowspan="7"><b>Monday</b><br>14 September</td>
     <td>10:00 - 11:00</td>
     <td>Talk 1</td>
   </tr>
@@ -49,7 +49,7 @@ nav_order: 2
 
   <!-- Tuesday, 15 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="5"><b>Tuesday</b><br>15 September</td>
+    <td rowspan="6"><b>Tuesday</b><br>15 September</td>
     <td>09:00 - 10:00</td>
     <td>Talk 5</td>
   </tr>
