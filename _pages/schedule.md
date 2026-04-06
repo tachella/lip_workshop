@@ -49,7 +49,7 @@ nav_order: 2
 
   <!-- Tuesday, 15 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="5"><b>Tuesday</b><br>15 September</td>
+    <td rowspan="6"><b>Tuesday</b><br>15 September</td>
     <td>09:00 - 10:00</td>
     <td>Talk 6</td>
   </tr>
