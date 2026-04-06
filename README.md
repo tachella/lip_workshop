@@ -1,1 +1,1 @@
-# Escuela de Verano en Deep Learning (Buenos Aires) 2025
+# Workshop on Learning-based methods for Inverse Problems (LIP) 2026

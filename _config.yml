@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
-last_name: Escuela de Primavera en Deep Learning 2025
+last_name: Workshop on Learning-based Methods for Inverse Problems 2026
 email: julian.tachella@cnrs.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
@@ -13,7 +13,7 @@ footer_text: >
 
 keywords:  # add your own keywords or leave empty
 
-lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/cell  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://primavera-ml.github.io # the base hostname & protocol for your site
