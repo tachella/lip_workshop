@@ -32,7 +32,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>13:00 - 14:00</td>
-    <td><i>Poster Session</i></td>
+    <td>Poster Session</td>
   </tr>
   <tr class="header">
     <td>14:00 - 15:00</td>
@@ -44,22 +44,22 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>16:00 - 17:00</td>
-    <td>Talk 4</td>
+    <td>Talk 5</td>
   </tr>
 
   <!-- Tuesday, 15 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="6"><b>Tuesday</b><br>15 September</td>
+    <td rowspan="5"><b>Tuesday</b><br>15 September</td>
     <td>09:00 - 10:00</td>
-    <td>Talk 5</td>
-  </tr>
-  <tr class="header">
-    <td>10:00 - 11:00</td>
     <td>Talk 6</td>
   </tr>
   <tr class="header">
-    <td>11:00 - 12:00</td>
+    <td>10:00 - 11:00</td>
     <td>Talk 7</td>
+  </tr>
+  <tr class="header">
+    <td>11:00 - 12:00</td>
+    <td>Talk 8</td>
   </tr>
   <tr class="header">
     <td>12:00 - 13:00</td>
