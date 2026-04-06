@@ -27,15 +27,23 @@ nav_order: 2
     <td>Talk 2</td>
   </tr>
   <tr class="header">
-    <td>12:00 - 13:30</td>
+    <td>12:00 - 13:00</td>
     <td><i>Lunch</i></td>
   </tr>
   <tr class="header">
-    <td>13:30 - 14:30</td>
+    <td>13:00 - 14:00</td>
+    <td><i>Poster Session</i></td>
+  </tr>
+  <tr class="header">
+    <td>14:00 - 15:00</td>
     <td>Talk 3</td>
   </tr>
   <tr class="header">
-    <td>14:30 - 15:30</td>
+    <td>14:00 - 16:00</td>
+    <td>Talk 4</td>
+  </tr>
+  <tr class="header">
+    <td>16:00 - 17:00</td>
     <td>Talk 4</td>
   </tr>
 
@@ -54,12 +62,16 @@ nav_order: 2
     <td>Talk 7</td>
   </tr>
   <tr class="header">
-    <td>12:00 - 13:30</td>
+    <td>12:00 - 13:00</td>
     <td><i>Lunch</i></td>
   </tr>
   <tr class="header">
-    <td>13:30 - 16:00</td>
-    <td>Talk 8</td>
+    <td>13:00 - 14:00</td>
+    <td>Poster Session</td>
+  </tr>
+  <tr class="header">
+    <td>14:30 - 16:00</td>
+    <td>Julian Tachella HdR defense</td>
   </tr>
 </table>
 </div>
