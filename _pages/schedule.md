@@ -76,7 +76,7 @@ nav_order: 2
 
   <!-- Wednesday, 16 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="6"><b>Wednesday</b><br>16 September</td>
+    <td rowspan="7"><b>Wednesday</b><br>16 September</td>
     <td>09:00 - 9:45</td>
     <td>Introduction + projects </td>
   </tr>
