@@ -18,7 +18,7 @@ nav_order: 2
 
   <!-- Monday, 14 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="7"><b>Monday</b><br>14 September</td>
+    <td rowspan="8"><b>Monday</b><br>14 September</td>
     <td>09:30 - 10:00</td>
     <td>Welcome and coffee</td>
   </tr>
@@ -43,7 +43,11 @@ nav_order: 2
     <td>Talk 4</td>
   </tr>
   <tr class="header">
-    <td>16:00 - 17:00</td>
+    <td>16:00 - 16:30</td>
+    <td>Coffee break</td>
+  </tr>
+  <tr class="header">
+    <td>16:30 - 17:30</td>
     <td>Talk 5</td>
   </tr>
 
@@ -66,7 +70,7 @@ nav_order: 2
     <td><i>Lunch</i> and Poster Session</td>
   </tr>
   <tr class="header">
-    <td>14:30 - 16:00</td>
+    <td>14:30 - 16:30</td>
     <td>(Optional attendance) Julian Tachella HdR defence</td>
   </tr>
 
