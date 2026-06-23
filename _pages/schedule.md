@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: The workshop will take place at ENS Lyon (France), Sep 14–15 (2026), with a follow-up deepinverse hackathon on Sep 16. 
+description: The workshop will take place at ENS Lyon (France), Sep 14–15 (2026).
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
@@ -72,37 +72,6 @@ nav_order: 2
   <tr class="header">
     <td>14:30 - 16:30</td>
     <td>(Optional attendance) Julian Tachella HdR defence</td>
-  </tr>
-
-  <!-- Wednesday, 16 September -->
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="7"><b>Wednesday</b><br>16 September</td>
-    <td>09:00 - 9:45</td>
-    <td>Introduction + projects </td>
-  </tr>
-  <tr class="header">
-    <td>9:45 - 10:00</td>
-    <td>Coffee break</td>
-  </tr>
-  <tr class="header">
-    <td>10:00 - 12:00</td>
-    <td>Coding session</td>
-  </tr>
-  <tr class="header">
-    <td>12:00 - 13:30</td>
-    <td><i>Lunch</i></td>
-  </tr>
-  <tr class="header">
-    <td>13:30 - 15:45</td>
-    <td>Coding session</td>
-  </tr>
-  <tr class="header">
-    <td>15:45 - 16:00</td>
-    <td>Coffee break</td>
-  </tr>
-  <tr class="header">
-    <td>16:00 - 17:00</td>
-    <td>Update and next steps</td>
   </tr>
 </table>
 </div>
