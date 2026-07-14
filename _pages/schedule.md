@@ -32,7 +32,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>12:00 - 14:00</td>
-    <td><i>Lunch</i> + Poster Session</td>
+    <td><i>Lunch</i> + <a href="{{ '/posters/' | relative_url }}">Poster Session</a></td>
   </tr>
   <tr class="header">
     <td>14:00 - 15:00</td>
@@ -67,7 +67,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>12:00 - 14:30</td>
-    <td><i>Lunch</i> and Poster Session</td>
+    <td><i>Lunch</i> and <a href="{{ '/posters/' | relative_url }}">Poster Session</a></td>
   </tr>
   <tr class="header">
     <td>14:30 - 16:30</td>
