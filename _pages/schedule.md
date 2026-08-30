@@ -36,7 +36,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>14:00 - 15:00</td>
-    <td><b>Rémi Gribonval</b> &mdash; TBA</td>
+    <td><b>Rémi Gribonval</b> &mdash; Training dynamics of ReLU Networks: a Path-lifting Perspective</td>
   </tr>
   <tr class="header">
     <td>15:00 - 16:00</td>
