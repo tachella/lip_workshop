@@ -24,7 +24,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>10:00 - 11:00</td>
-    <td><b>Marcelo Pereyra</b> &mdash; Physics-Grounded Foundation Models for Generative Computational Imaging</td>
+    <td><b>Mike Davies</b> &mdash; TBA</td>
   </tr>
   <tr class="header">
     <td>11:00 - 12:00</td>
@@ -40,7 +40,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>15:00 - 16:00</td>
-    <td>Talk 4</td>
+    <td><b>Caroline Chaux</b> &mdash; TBA</td>
   </tr>
   <tr class="header">
     <td>16:00 - 16:30</td>
@@ -48,7 +48,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>16:30 - 17:30</td>
-    <td><b>Mike Davies</b> &mdash; TBA</td>
+    <td><b>Julien Mairal</b> &mdash; TBA</td>
   </tr>
 
   <!-- Tuesday, 15 September -->
@@ -71,7 +71,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>14:30 - 16:30</td>
-    <td>(Optional attendance) Julian Tachella HdR defence</td>
+    <td><b>Julian Tachella</b> &mdash; Self-supervised learning from noisy and incomplete data (HdR presentation)</td>
   </tr>
 </table>
 </div>
