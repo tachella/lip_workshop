@@ -76,3 +76,24 @@ nav_order: 5
   <summary>Abstract</summary>
   <p>The poster presents LATINOs, a family of zero-shot image and video restoration methods that combine distilled latent consistency-model priors with explicit data-fidelity corrections. Unlike diffusion-based approaches requiring many denoising steps and repeated backpropagation through the measurement model, LATINOs operate in only a few function evaluations using proximal physics updates. LATINO-PRO additionally performs prompt self-calibration through marginal maximum-likelihood estimation, while LVTINO combines video and image consistency priors with spatio-temporal total variation to preserve both temporal coherence and fine spatial detail. Experiments on challenging deblurring and super-resolution tasks show competitive perceptual and reconstruction quality at substantially reduced computational cost.</p>
 </details>
+
+<hr>
+
+<h3>Equivariant Splitting: Self-supervised learning from incomplete data</h3>
+<p><b>Victor Sechaud &amp; Jeremy Scanvic</b> (ENS Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Self-supervised learning for inverse problems allows to train a reconstruction network from noise and/or incomplete data alone. These methods have the potential of enabling learning-based solutions when obtaining ground-truth references for training is expensive or even impossible. In this paper, we propose a new self-supervised learning strategy devised for the challenging setting where measurements are observed via a single incomplete observation model. We introduce a new definition of equivariance in the context of reconstruction networks, and show that the combination of self-supervised splitting losses and equivariant reconstruction networks results in unbiased estimates of the supervised loss. Through a series of experiments on image inpainting, accelerated magnetic resonance imaging, sparse-view computed tomography, and compressive sensing, we demonstrate that the proposed loss achieves state-of-the-art performance in settings with highly rank-deficient forward models.</p>
+</details>
+
+<hr>
+
+<h3>Plug-and-Play methods for reconstructing polarizations of gravitational wave signals</h3>
+<p><b>Thomas Sainrat</b> (Laboratoire AstroParticule et Cosmologie, Université Paris Cité, CNRS)</p>
+<p><i>Abstract: TBA</i></p>
+
+<hr>
+
+<h3>Fast dynamic tomographic imaging for material and medical applications</h3>
+<p><b>Cyprien Lanneau</b> (ENS Paris Saclay)</p>
+<p><i>Abstract: TBA</i></p>

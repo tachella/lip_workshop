@@ -24,11 +24,11 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>10:00 - 11:00</td>
-    <td>Talk 1</td>
+    <td><b>Marcelo Pereyra</b> &mdash; Physics-Grounded Foundation Models for Generative Computational Imaging</td>
   </tr>
   <tr class="header">
     <td>11:00 - 12:00</td>
-    <td>Talk 2</td>
+    <td><b>Florence Forbes</b> &mdash; Scalable Bayesian Experimental Design with Diffusions</td>
   </tr>
   <tr class="header">
     <td>12:00 - 14:00</td>
@@ -36,7 +36,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>14:00 - 15:00</td>
-    <td>Talk 3</td>
+    <td><b>Rémi Gribonval</b> &mdash; TBA</td>
   </tr>
   <tr class="header">
     <td>15:00 - 16:00</td>
@@ -48,14 +48,14 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>16:30 - 17:30</td>
-    <td>Talk 5</td>
+    <td><b>Mike Davies</b> &mdash; TBA</td>
   </tr>
 
   <!-- Tuesday, 15 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="5"><b>Tuesday</b><br>15 September</td>
     <td>09:30 - 10:30</td>
-    <td>Talk 6</td>
+    <td><b>Rich Baraniuk</b> &mdash; TBA</td>
   </tr>
   <tr class="header">
     <td>10:30 - 11:00</td>
@@ -63,7 +63,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>11:00 - 12:00</td>
-    <td>Talk 7</td>
+    <td><b>Marcelo Pereyra</b> &mdash; Physics-Grounded Foundation Models for Generative Computational Imaging</td>
   </tr>
   <tr class="header">
     <td>12:00 - 14:30</td>
