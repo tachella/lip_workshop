@@ -55,15 +55,6 @@ nav_order: 5
 
 <hr>
 
-<h3>Unsupervised Image Denoising via Physics-Driven Convolutional Neural Networks</h3>
-<p><b>Haridarshan Kumar</b> (Indian Institute of Technology Roorkee)</p>
-<details>
-  <summary>Abstract</summary>
-  <p>This study explores the potential of physics-informed CNN approaches for unsupervised image denoising. In the first part, we develop a computational algorithm based on Physics-Informed Neural Networks (PINNs) to solve the image denoising PDE model. In the second part, we propose a physics-inspired Deep Image Prior (DIP) algorithm that effectively addresses the critical early-stopping requirement in the standard Deep Image Prior framework for image denoising tasks.</p>
-</details>
-
-<hr>
-
 <h3>Deep Lightweight Unrolled Network for High Dynamic Range Modulo Imaging</h3>
 <p><b>Brayan Monroy</b> (Universidad Industrial de Santander)</p>
 <p><i>Abstract: TBA</i></p>
