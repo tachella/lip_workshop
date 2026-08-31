@@ -52,4 +52,8 @@ nav_order: 4
 <hr>
 
 <h3>Julien Mairal (Inria Grenoble)</h3>
-<p><b>TBA</b></p>
+<p><b>Machine learning and optimization for scientific imaging</b></p>
+<details>
+  <summary>Abstract</summary>
+  <p>Reconstruction in scientific imaging means solving large-scale ill-posed inverse problems, where a physical forward operator is paired with a regularizer encoding prior knowledge. We will first present a few problems where hybrid approaches combining physical models of image formation and deep learning are highly successful. We will then address the choice of estimator, as perceptual quality does not align with criteria such as the mean squared error, whose minimizers are over-smoothed. This motivates targeting the maximum a posteriori estimate, which requires the proximal operator of the negative log-prior --- an intractable object that practitioners routinely replace by a pretrained denoiser. We will show that a simple algorithm, close to several used in practice, provably converges to this operator under a log-concavity assumption, and can be read as gradient descent on smoothed approximations of the proximal objective, yielding rates and guarantees for a class of previously heuristic methods.</p>
+</details>

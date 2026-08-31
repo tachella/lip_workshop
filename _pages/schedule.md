@@ -48,7 +48,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>16:30 - 17:30</td>
-    <td><b>Julien Mairal</b> &mdash; TBA</td>
+    <td><b>Julien Mairal</b> &mdash; Machine learning and optimization for scientific imaging</td>
   </tr>
 
   <!-- Tuesday, 15 September -->
