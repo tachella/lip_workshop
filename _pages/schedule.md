@@ -55,7 +55,7 @@ nav_order: 2
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td rowspan="5"><b>Tuesday</b><br>15 September</td>
     <td>09:30 - 10:30</td>
-    <td><b>Rich Baraniuk</b> &mdash; TBA</td>
+    <td><b>Rich Baraniuk</b> &mdash; Learning from Collapse: Self-Consuming Loops in AI and the Humans Who Feed Them</td>
   </tr>
   <tr class="header">
     <td>10:30 - 11:00</td>

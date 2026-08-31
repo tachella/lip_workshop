@@ -37,7 +37,11 @@ nav_order: 4
 <hr>
 
 <h3>Rich Baraniuk (Rice University)</h3>
-<p><b>TBA</b></p>
+<p><b>Learning from Collapse: Self-Consuming Loops in AI and the Humans Who Feed Them</b></p>
+<details>
+  <summary>Abstract</summary>
+  <p>Training generative models on synthetic data creates feedback loops that amplify artifacts and bias and degrade quality and diversity, a phenomenon known as model collapse or MADness. This talk makes two turns. First, we show how to learn from collapse: the way a model degrades under self-training can tell us how to improve it. Second, we ask whether collapse might reach beyond models: fresh real data can stabilize self-consuming loops, but generative AI is beginning to reshape human language, ideas, and attention. Humans may no longer be outside the loop.</p>
+</details>
 
 <hr>
 
