@@ -40,7 +40,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>15:00 - 16:00</td>
-    <td><b>Caroline Chaux</b> &mdash; TBA</td>
+    <td><b>Caroline Chaux</b> &mdash; Learning through unrolling a weighted least squares data term to adapt to noise in image deconvolution</td>
   </tr>
   <tr class="header">
     <td>16:00 - 16:30</td>

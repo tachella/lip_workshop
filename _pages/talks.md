@@ -51,7 +51,12 @@ nav_order: 4
 <hr>
 
 <h3>Caroline Chaux (CNRS &amp; Aix Marseille Université)</h3>
-<p><b>TBA</b></p>
+<p><b>Learning through unrolling a weighted least squares data term to adapt to noise in image deconvolution</b></p>
+<details>
+  <summary>Abstract</summary>
+  <p>Weighted least squares are often used to approximate log-likelihoods when solving inverse problems involving non-Gaussian noise as they are more appealing from an optimization perspective. We propose in this work to learn the weights from data so as to adapt to any general noise while maintaining the efficiency of optimization. We also propose to use learning-based regularisations and all the parameters of the unrolled algorithm are trained together in an end-to-end manner. The effectiveness of our approach is demonstrated in the context of image deconvolution involving various noises.</p>
+  <p><i>Joint work with Abhijit Singh and Emmanuel Soubiès.</i></p>
+</details>
 
 <hr>
 
