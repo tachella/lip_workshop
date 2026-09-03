@@ -46,7 +46,11 @@ nav_order: 4
 <hr>
 
 <h3>Mike Davies (University of Edinburgh)</h3>
-<p><b>TBA</b></p>
+<p><b>Equivariant Imaging: Theory, Algorithms and Applications</b></p>
+<details>
+  <summary>Abstract</summary>
+  <p>Learning-based reconstruction methods can achieve remarkable results, but often depend on ground-truth images that are difficult or impossible to obtain. Equivariant Imaging offers an alternative: it exploits transformations that are natural for the image class but interact non-trivially with the acquisition physics, thereby creating virtual imaging experiments from the measurements themselves. In this talk, I will introduce the geometric theory behind this idea, describe practical algorithms combining measurement consistency and equivariance, and discuss when a proposed transformation is—and is not—informative. Example applications will range from CT and MRI to depth imaging, sonar, multispectral and hyperspectral reconstruction. I will conclude with some open questions and potential future applications.</p>
+</details>
 
 <hr>
 

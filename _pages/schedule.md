@@ -24,7 +24,7 @@ nav_order: 2
   </tr>
   <tr class="header">
     <td>10:00 - 11:00</td>
-    <td><b>Mike Davies</b> &mdash; TBA</td>
+    <td><b>Mike Davies</b> &mdash; Equivariant Imaging: Theory, Algorithms and Applications</td>
   </tr>
   <tr class="header">
     <td>11:00 - 12:00</td>
