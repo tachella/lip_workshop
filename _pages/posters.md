@@ -7,6 +7,67 @@ nav: true
 nav_order: 5
 ---
 
+<h2>Monday 14 September</h2>
+
+<h3>Equivariant Splitting: Self-supervised learning from incomplete data</h3>
+<p><b>Victor Sechaud &amp; Jeremy Scanvic</b> (ENS Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Self-supervised learning for inverse problems allows to train a reconstruction network from noise and/or incomplete data alone. These methods have the potential of enabling learning-based solutions when obtaining ground-truth references for training is expensive or even impossible. In this paper, we propose a new self-supervised learning strategy devised for the challenging setting where measurements are observed via a single incomplete observation model. We introduce a new definition of equivariance in the context of reconstruction networks, and show that the combination of self-supervised splitting losses and equivariant reconstruction networks results in unbiased estimates of the supervised loss. Through a series of experiments on image inpainting, accelerated magnetic resonance imaging, sparse-view computed tomography, and compressive sensing, we demonstrate that the proposed loss achieves state-of-the-art performance in settings with highly rank-deficient forward models.</p>
+</details>
+
+<hr>
+
+<h3>Plug-and-Play methods for reconstructing polarizations of gravitational wave signals</h3>
+<p><b>Thomas Sainrat</b> (Laboratoire AstroParticule et Cosmologie, Université Paris Cité, CNRS)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Plug-and-Play methods have been developed in order to tackle inverse problems with complex priors. They explicitely separate the differentiable likelihood and the regularization, which is likened to a Gaussian denoising task. This denoising tasks can be achieved in a variety of ways, typically using a neural network. We present an application of this type of method to reconstruct the polarizations of gravitational waves given detector data. In particular, we demonstrate it on compact binary coalescences, allowing to recover evidence of relativistic precession within the polarizations.</p>
+</details>
+
+<hr>
+
+<h3>Fast dynamic tomographic imaging for material and medical applications</h3>
+<p><b>Cyprien Lanneau</b> (ENS Paris Saclay)</p>
+<p><i>Abstract: TBA</i></p>
+
+<hr>
+
+<h3>Joint choice for the acquisition and reconstruction operator for single pixel camera</h3>
+<p><b>Joseph Arnold</b> (CREATIS, INSA Lyon)</p>
+<p><i>Abstract: TBA</i></p>
+
+<hr>
+
+<h3>GAN-Based Generation and Super-Resolution of Multivariate Multifractal Textures</h3>
+<p><b>Jhonatan Ancco</b> (ENS Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Multivariate scale-free texture images are nowadays central in numerous modern applications very different in natures. A common challenging issue consists in being able to generate such multivariate textures at any arbitrary size, from a learning set of (possibly much) smaller size. Parametric model often turn too restrictive for the generation of realistic textures, thus prompting for neural network training based generation. While a number neural network approaches propose generation at sizes larger than training, they do not explicitly seek to reproduce multiscale or scale-free statistics in textures and rely on perceptual assessment. The present combines convolutional Wasserstein-GAN architectures with self-attention layers to permit to generate textures of arbitrary size that focus on reproducing multiscale statistics. Quantitative assessment conducted from paradigmic multifractal textures show that the proposed architecture turns able to generate textures with accurate statistics for size \(16 \times 16\) larger than originals.</p>
+</details>
+
+<hr>
+
+<h3>SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</h3>
+<p><b>Leo Milliat</b> (CREATIS, INSA Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Compton cameras are gamma-ray imaging systems based on Compton kinematics. Initially used for astronomy applications, Compton camera is becoming an emergent technology in Single Photon Emission Computed Tomography (SPECT). Compared to classical SPECT devices with mechanical collimation, Compton camera imaging offers potential advantages such as higher sensitivity and the capability to detect a wide range of photon energies. These characteristics pave the way for monitoring emerging targeted radionuclide therapies. However, both the camera and the reconstruction algorithms, need to be further optimized to meet the requirements for clinical applications, particularly for diagnosis and theragnosis purposes.</p>
+</details>
+
+<hr>
+
+<h3>Implicit Neural Deblurring: A Self-Supervised Multi-Scale Framework</h3>
+<p><b>Omar Zribi</b> (CREATIS, INSA Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Blind image deblurring remains a fundamental ill-posed inverse problem, where both the latent sharp image and the unknown blur kernel must be recovered from a single blurred observation, a challenge particularly acute in pathology imaging where ground-truth data are rarely available. In this paper, we present a self-supervised blind deblurring approach based on implicit neural representations (INRs) that addresses these limitations. By parameterising the sharp image and the blur kernel as coordinate-based neural networks, our method goes beyond image discretization and enables flexible, resolution-free optimisation. The key to our success lies in a coarse-to-fine multi-scale training scheme that guides the optimisation from low to high frequencies. This is complemented by ℓ2 regularisation on the kernel and total variation (TV) regularisation on the image, which jointly promote smooth, compact kernels and edge-preserving sharp reconstructions. Extensive experiments on fluorescence microscopy and transmission electron microscopy demonstrate that our method achieves competitive performance compared to state-of-the-art self-supervised techniques.</p>
+</details>
+
+<hr>
+
+<h2>Tuesday 15 September</h2>
+
 <h3>Self-supervised Bayesian imaging with equivariant VAEs</h3>
 <p><b>Bernardin Tamo Amougou</b> (Heriot-Watt University)</p>
 <details>
@@ -34,15 +95,6 @@ nav_order: 5
 
 <hr>
 
-<h3>2-Log analysis using LLM meta-modelling</h3>
-<p><b>Kavé Salamatian, Sara Pelinku, Olaf Maennel</b> (Université Savoie Mont Blanc / LISTIX)</p>
-<details>
-  <summary>Abstract</summary>
-  <p>Large-scale IT infrastructure involves diverse equipment, like routers, servers, firewalls, EDR, etc. All these devices generated feedback in the form of logs that are the main source of information for SIEMs, SOCs. However, these logs are heterogeneous, lack common syntax, and are verbose. Moreover, sources of information might increase, syntax can change with system updates, confronting the system operator with a dynamic and fast-changing landscape of logs format and content. One of the most difficult tasks in security monitor is to tackle with this heterogeneity, to create consistent structured information flow, e.g., in json format. In our research work, we leverage LLM context extraction abilities to simplify the work of log analysis. Rather than using the LLM itself to do the log analysis, we use a lower-cost approach we call meta-modelling that consist of using the LLM for building models (in the form of regular expressions) that will describe the syntax of a newly observed log. Through this approach the LLM is used, efficiently, to do the part where it is the more powerful and log information extraction and analysis are thereafter done using classical tools on CPU (rather than GPU). In this presentation we will show the effectiveness of this approach and describe its application to monitoring of a large-scale IT/OT system.</p>
-</details>
-
-<hr>
-
 <h3>Robust Multifractal Analysis for Incomplete Data</h3>
 <p><b>Lorena León</b> (Université Grenoble Alpes / Gipsa-lab)</p>
 <p><i>Abstract: TBA</i></p>
@@ -51,7 +103,10 @@ nav_order: 5
 
 <h3>Unrolled relaxed algorithm for 3D SPECT reconstruction</h3>
 <p><b>Corentin Constanza</b> (CREATIS)</p>
-<p><i>Abstract: TBA</i></p>
+<details>
+  <summary>Abstract</summary>
+  <p>We propose an unrolled BSREM framework for 3D SPECT reconstruction, incorporating a learned regularization gradient and trained with Jacobian-Free Unrolling (JFU). We investigate the impact of relaxation strategies and show that JFU improves training stability and reconstruction performance. Interestingly, JFU and relaxation exhibit similar stabilizing effects on the unrolled training process, suggesting that JFU may intrinsically act as a form of relaxation. However, JFU achieves this stabilization without the performance loss associated with strong explicit relaxation, leading to better reconstruction performance with weak or no relaxation.</p>
+</details>
 
 <hr>
 
@@ -67,24 +122,3 @@ nav_order: 5
   <summary>Abstract</summary>
   <p>The poster presents LATINOs, a family of zero-shot image and video restoration methods that combine distilled latent consistency-model priors with explicit data-fidelity corrections. Unlike diffusion-based approaches requiring many denoising steps and repeated backpropagation through the measurement model, LATINOs operate in only a few function evaluations using proximal physics updates. LATINO-PRO additionally performs prompt self-calibration through marginal maximum-likelihood estimation, while LVTINO combines video and image consistency priors with spatio-temporal total variation to preserve both temporal coherence and fine spatial detail. Experiments on challenging deblurring and super-resolution tasks show competitive perceptual and reconstruction quality at substantially reduced computational cost.</p>
 </details>
-
-<hr>
-
-<h3>Equivariant Splitting: Self-supervised learning from incomplete data</h3>
-<p><b>Victor Sechaud &amp; Jeremy Scanvic</b> (ENS Lyon)</p>
-<details>
-  <summary>Abstract</summary>
-  <p>Self-supervised learning for inverse problems allows to train a reconstruction network from noise and/or incomplete data alone. These methods have the potential of enabling learning-based solutions when obtaining ground-truth references for training is expensive or even impossible. In this paper, we propose a new self-supervised learning strategy devised for the challenging setting where measurements are observed via a single incomplete observation model. We introduce a new definition of equivariance in the context of reconstruction networks, and show that the combination of self-supervised splitting losses and equivariant reconstruction networks results in unbiased estimates of the supervised loss. Through a series of experiments on image inpainting, accelerated magnetic resonance imaging, sparse-view computed tomography, and compressive sensing, we demonstrate that the proposed loss achieves state-of-the-art performance in settings with highly rank-deficient forward models.</p>
-</details>
-
-<hr>
-
-<h3>Plug-and-Play methods for reconstructing polarizations of gravitational wave signals</h3>
-<p><b>Thomas Sainrat</b> (Laboratoire AstroParticule et Cosmologie, Université Paris Cité, CNRS)</p>
-<p><i>Abstract: TBA</i></p>
-
-<hr>
-
-<h3>Fast dynamic tomographic imaging for material and medical applications</h3>
-<p><b>Cyprien Lanneau</b> (ENS Paris Saclay)</p>
-<p><i>Abstract: TBA</i></p>
