@@ -66,6 +66,16 @@ nav_order: 5
 
 <hr>
 
+<h3>Training with noisy labels &mdash; a functional gradient perspective</h3>
+<p><b>Manon Verbockhaven</b> (ENS Lyon)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>In supervised machine learning, models are trained on a finite dataset of independent draws of some random variables \(\left(X, Y\right)\) on which we suppose a statistic model of the form \(Y \sim y^*(X) + \sigma\epsilon\) where \(\epsilon\sim \mathcal{E}\) is a noise term, \(\sigma\) is the level of noise and \(y^*\) is a deterministic function of \(X\). In regression (\(Y\in \mathbb{R}^q\)), the noise is understood as a physical phenomenon, while in classification (\(Y\in \Delta^q\)), it can either stem from a misclassification error or, as introduced by the student-teacher networks, from the interpretation of the cross entropy loss as an approximation of the Kullback-Leibler divergence with the caricatural density defined by the one-hot encoding \(Y\). In both cases, when the variable \(X\) lives in a high-dimensional space, the dataset size is often insufficient to cancel the impact of the noise in the training dynamic, leading to a generalization gap in performance. In this work, we take a functional perspective on the optimization criterion \(L\) as an application from a function class \(\mathcal{F}\) to \(\mathbb{R}^+\) and define its functional derivative \(\nabla_f L\). For many usual criteria \(L\), we show that the application \(\nabla_f L\) satisfies a linearity property which grasps the impact of the noise on the training dynamic and that allows simple Monte Carlo estimates of it.</p>
+  <p>From this theoretical analysis and for any prior on \(\epsilon\), we propose an estimate of \(\sigma\) and a hard thresholding strategy on the gradient descent algorithm that is model and parameter-dependent. We show empirically, on regression and classification tasks, that this strategy mitigates the effect of the noise on the training dynamic while preserving the final performance of the model.</p>
+</details>
+
+<hr>
+
 <h2><b>Tuesday 15 September</b></h2>
 
 <h3>Self-supervised Bayesian imaging with equivariant VAEs</h3>
@@ -97,7 +107,10 @@ nav_order: 5
 
 <h3>Robust Multifractal Analysis for Incomplete Data</h3>
 <p><b>Lorena León</b> (Université Grenoble Alpes / Gipsa-lab)</p>
-<p><i>Abstract: TBA</i></p>
+<details>
+  <summary>Abstract</summary>
+  <p>We present a Bayesian approach for robust multifractal analysis of multivariate data with missing samples. Using a debiased Whittle approximation, the proposed method enables accurate and computationally efficient estimation of multifractality parameters from incomplete data. Its performance is demonstrated through Monte Carlo simulations and an application to financial data.</p>
+</details>
 
 <hr>
 
