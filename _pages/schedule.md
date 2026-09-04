@@ -23,15 +23,15 @@ nav_order: 2
     <td>Welcome and coffee</td>
   </tr>
   <tr class="header">
-    <td>10:00 - 11:00</td>
+    <td>10:00 - 10:50</td>
     <td><b>Mike Davies</b> &mdash; Equivariant Imaging: Theory, Algorithms and Applications</td>
   </tr>
   <tr class="header">
-    <td>11:00 - 12:00</td>
+    <td>10:50 - 11:40</td>
     <td><b>Florence Forbes</b> &mdash; Scalable Bayesian Experimental Design with Diffusions</td>
   </tr>
   <tr class="header">
-    <td>12:00 - 14:00</td>
+    <td>11:45 - 14:00</td>
     <td><i>Lunch</i> + <a href="{{ '/posters/' | relative_url }}">Poster Session</a></td>
   </tr>
   <tr class="header">
@@ -58,15 +58,15 @@ nav_order: 2
     <td><b>Rich Baraniuk</b> &mdash; Learning from Collapse: Self-Consuming Loops in AI and the Humans Who Feed Them</td>
   </tr>
   <tr class="header">
-    <td>10:30 - 11:00</td>
+    <td>10:30 - 10:50</td>
     <td>Coffee break</td>
   </tr>
   <tr class="header">
-    <td>11:00 - 12:00</td>
+    <td>10:50 - 11:40</td>
     <td><b>Marcelo Pereyra</b> &mdash; Physics-Grounded Foundation Models for Generative Computational Imaging</td>
   </tr>
   <tr class="header">
-    <td>12:00 - 14:30</td>
+    <td>11:45 - 14:30</td>
     <td><i>Lunch</i> and <a href="{{ '/posters/' | relative_url }}">Poster Session</a></td>
   </tr>
   <tr class="header">

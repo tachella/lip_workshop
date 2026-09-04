@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h2>Monday 14 September</h2>
+<h2><b>Monday 14 September</b></h2>
 
 <h3>Equivariant Splitting: Self-supervised learning from incomplete data</h3>
 <p><b>Victor Sechaud &amp; Jeremy Scanvic</b> (ENS Lyon)</p>
@@ -66,7 +66,7 @@ nav_order: 5
 
 <hr>
 
-<h2>Tuesday 15 September</h2>
+<h2><b>Tuesday 15 September</b></h2>
 
 <h3>Self-supervised Bayesian imaging with equivariant VAEs</h3>
 <p><b>Bernardin Tamo Amougou</b> (Heriot-Watt University)</p>
