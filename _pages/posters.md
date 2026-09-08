@@ -135,3 +135,13 @@ nav_order: 5
   <summary>Abstract</summary>
   <p>The poster presents LATINOs, a family of zero-shot image and video restoration methods that combine distilled latent consistency-model priors with explicit data-fidelity corrections. Unlike diffusion-based approaches requiring many denoising steps and repeated backpropagation through the measurement model, LATINOs operate in only a few function evaluations using proximal physics updates. LATINO-PRO additionally performs prompt self-calibration through marginal maximum-likelihood estimation, while LVTINO combines video and image consistency priors with spatio-temporal total variation to preserve both temporal coherence and fine spatial detail. Experiments on challenging deblurring and super-resolution tasks show competitive perceptual and reconstruction quality at substantially reduced computational cost.</p>
 </details>
+
+<hr>
+
+<h3>Diffusion-based adaptive task-oriented sensing: optimizing acquisition and the number of posterior samples</h3>
+<p><b>Vincent Corlay</b> (Mitsubishi Electric R&amp;D Centre Europe)</p>
+<details>
+  <summary>Abstract</summary>
+  <p>Diffusion-based adaptive sensing uses a pretrained diffusion model to sample from the posterior distribution given the current measurements. It consumes two different resources: measurements incur a cost at the sensor, while posterior samples incur a cost at the diffusion model.</p>
+  <p>The posterior samples are used to address two questions: how to sense (which measurement to take next) and when to stop (whether we have sufficient confidence for the task at hand). Both can be designed for a reconstruction objective, as is standard, or for a specific task, such as classification. For how to sense, we propose evaluating the posterior samples with a classifier and taking the next measurement along the direction that best distinguishes the predicted classes, rather than along the direction of largest overall variation. For when to stop, we use the samples to determine whether sensing can stop. We make the size of the sample pool part of the decision rather than treating it as a fixed cost, so the number of draws also becomes adaptive rather than fixed.</p>
+</details>
