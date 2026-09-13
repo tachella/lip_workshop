@@ -70,7 +70,7 @@ nav_order: 2
     <td><i>Lunch</i> and <a href="{{ '/posters/' | relative_url }}">Poster Session</a></td>
   </tr>
   <tr class="header">
-    <td>14:30 - 16:30</td>
+    <td>14:00 - 16:30</td>
     <td><b>Julian Tachella</b> &mdash; Self-supervised learning from noisy and incomplete data (HdR presentation)</td>
   </tr>
 </table>
