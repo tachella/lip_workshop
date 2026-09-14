@@ -18,7 +18,7 @@ nav_order: 2
 
   <!-- Monday, 14 September -->
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td rowspan="8"><b>Monday</b><br>14 September</td>
+    <td rowspan="7"><b>Monday</b><br>14 September</td>
     <td>09:30 - 10:00</td>
     <td>Welcome and coffee</td>
   </tr>
@@ -39,15 +39,11 @@ nav_order: 2
     <td><b>Rémi Gribonval</b> &mdash; Training dynamics of ReLU Networks: a Path-lifting Perspective</td>
   </tr>
   <tr class="header">
-    <td>15:00 - 16:00</td>
-    <td><b>Caroline Chaux</b> &mdash; Learning through unrolling a weighted least squares data term to adapt to noise in image deconvolution</td>
-  </tr>
-  <tr class="header">
-    <td>16:00 - 16:30</td>
+    <td>15:00 - 15:30</td>
     <td>Coffee break</td>
   </tr>
   <tr class="header">
-    <td>16:30 - 17:30</td>
+    <td>15:30 - 16:30</td>
     <td><b>Julien Mairal</b> &mdash; Machine learning and optimization for scientific imaging</td>
   </tr>
 
